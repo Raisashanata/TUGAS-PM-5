@@ -1,0 +1,46 @@
+body{ font-family: calibru; } 
+      .container {
+       width: 80%; /* Lebar kontainer 80% dari lebar layar */
+       margin: 0 auto; /* Pusatkan kontainer */
+       border: 1px solid #ccc; /* Tambahkan garis tepi */
+       padding: 5px; /* Ruang di dalam kontainer */}
+     .logo{
+       margin-left: 70px;
+       margin-top: 5px;}
+     .formulir {
+       margin-top: 5px;
+       margin-right: 75px;
+       border: 3px solid black;
+       height: 80px;
+       width: 80px;
+       text-align: center;
+       justify-content:center;
+       align-items: center;}
+        .header {
+            margin: 5px;
+            font-size: 20px;
+            color: black;
+            padding: 70px;
+            text-align: center;
+            font-family: calibri;
+        }
+        .pilih {
+            margin-right: 40px;
+            font-size: 20px;
+            text-align: right;
+            padding-top: -10px;
+            margin: 0px;
+        }
+        .bagan1 {
+            font-size: 20px;
+            text-align: left;
+            background-color: green;
+            color: aliceblue;
+        }
+        .bagan2 {
+            font-size: 20px;
+            text-align: left;
+            background-color: green;
+            color: aliceblue;
+        }
+        /*ISI*/
